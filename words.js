@@ -1,4 +1,4 @@
-words index redemption school forrest remember private knight father fight fiction story unchained flory hunting music citizen inside wolfnmockingbird */
+/*words index redemption school forrest remember private knight father fight fiction story unchained flory hunting music citizen inside wolfnmockingbird */
 sentence = prompt("Enter a list of words")
 
 words=sentence.split(" ");
